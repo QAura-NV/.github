@@ -1,6 +1,6 @@
-## QAura
-
 ![Banner of QAura - Bringing Quality to your Aura](./resources/banner.png)
+
+## QAura
 
 At QAura, we are dedicated to redefining quality assurance with a focus on innovation and sustainability. Our advanced software testing solutions empower businesses to create robust and eco-friendly digital products. 
 
