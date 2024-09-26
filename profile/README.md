@@ -1,4 +1,4 @@
-![Banner of QAura - Bringing Quality to your Aura](/profile/resources/banner.png)
+![Banner of QAura - Bringing Quality to your Aura](./resources/banner.png)
 
 ## QAura
 
